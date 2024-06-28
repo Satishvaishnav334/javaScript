@@ -1,0 +1,22 @@
+
+.content{
+    background-color: orange;
+}
+.newClass{
+    text-align: center;
+    font-size: 25px;
+}
+h1{
+    color: blue;
+}
+.cars{
+    color: brown;
+}
+.sclass{
+    height: 100px;
+    width: 100px;
+    background-color: blueviolet;
+    border: 2px solid black;
+    margin: 5px;
+    color: black;
+}
